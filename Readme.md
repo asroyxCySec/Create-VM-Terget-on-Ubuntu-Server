@@ -1,4 +1,7 @@
 # Langkah Awal Setelah Instalasi <br>
+
+[![Tonton Video](https://img.youtube.com/vi/NoiIDszhnyI/hqdefault.jpg)](https://www.youtube.com/watch?v=NoiIDszhnyI)
+
 ## Update sistem terlebih dahulu:
 ```bash
 sudo apt update && sudo apt upgrade -y
