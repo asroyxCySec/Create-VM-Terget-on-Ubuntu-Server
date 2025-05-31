@@ -1,3 +1,5 @@
+[![Tonton Video](https://img.youtube.com/vi/P8_NOnIBMw8/hqdefault.jpg)](https://www.youtube.com/watch?v=P8_NOnIBMw8)
+
 # Step 1: Install LAMP Stack <br>
 
 ## Install Apache, MySQL, PHP:
