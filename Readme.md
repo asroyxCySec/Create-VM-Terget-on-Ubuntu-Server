@@ -1,6 +1,6 @@
 # Langkah Awal Setelah Instalasi <br>
 
-[![Tonton Video](https://img.youtube.com/vi/NoiIDszhnyI/hqdefault.jpg)](https://www.youtube.com/watch?v=NoiIDszhnyI)
+[![Tonton Video](https://img.youtube.com/vi/YC6h1-ILcO0/hqdefault.jpg)](https://www.youtube.com/watch?v=YC6h1-ILcO0)
 
 ## Update sistem terlebih dahulu:
 ```bash
